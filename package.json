@@ -1,0 +1,21 @@
+{
+  "name": "projectdemo-1",
+  "version": "1.0.0",
+  "description": "TestProjects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    
+  },
+  "author": "Tushar Ramgiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tusharramgiri/ProjectDemo/issues"
+  },
+  "homepage": "https://github.com/tusharramgiri/ProjectDemo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

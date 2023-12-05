@@ -1,2 +1,2 @@
 # ProjectDemo
-A fun project in which I am building projects
+A fun project where I am building projects
